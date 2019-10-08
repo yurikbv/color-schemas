@@ -1,25 +1,23 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import { Route, Switch } from 'react-router-dom';
+import seedColors from "./seedColors";
+import Palette from "./components/Palette";
+import { generatePalette } from "./colorHelpers";
+import PaletteList from "./components/PaletteList";
 
 function App() {
+
+  const findPalette = id => seedColors.find( palette => palette.id === id);
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+      <Switch>
+        <Route exact path="/" render={(routeProps) => <PaletteList {...routeProps} palettes={seedColors}/>}/>
+        <Route exact path="/palette/:id"
+               render={(routeProps) =>
+                   <Palette
+                       {...routeProps}
+                       palette={generatePalette(findPalette(routeProps.match.params.id))}/>}/>
+      </Switch>
   );
 }
 
