@@ -2,17 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60ee5e85-4882-48ff-9243-4f57384d1962" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ColorBox.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ColorBox.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ColorBox.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ColorBox.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/NavBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/NavBar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Palette.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Palette.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Palette.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Palette.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -96,7 +92,9 @@
       <workItem from="1570267383237" duration="1654000" />
       <workItem from="1570537887487" duration="148000" />
       <workItem from="1570538068480" duration="4460000" />
-      <workItem from="1570561738179" duration="12740000" />
+      <workItem from="1570561738179" duration="14018000" />
+      <workItem from="1570620468513" duration="5595000" />
+      <workItem from="1570647639032" duration="9912000" />
     </task>
     <servers />
   </component>
