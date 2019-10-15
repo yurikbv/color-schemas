@@ -5,9 +5,8 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ColorBox.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ColorBox.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/MiniPalette.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/MiniPalette.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/PaletteList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/PaletteList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/DraggableColorBox.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/DraggableColorBox.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/NewPaletteForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/NewPaletteForm.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -101,7 +100,12 @@
       <workItem from="1570723567364" duration="2000" />
       <workItem from="1571054421611" duration="270000" />
       <workItem from="1571057253412" duration="3736000" />
-      <workItem from="1571070720387" duration="14056000" />
+      <workItem from="1571070720387" duration="14217000" />
+      <workItem from="1571096635343" duration="28000" />
+      <workItem from="1571098134415" duration="2000" />
+      <workItem from="1571145821047" duration="3408000" />
+      <workItem from="1571155994043" duration="769000" />
+      <workItem from="1571170358865" duration="11352000" />
     </task>
     <servers />
   </component>
@@ -120,5 +124,17 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/DraggableColorBox.js</url>
+          <line>5</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
