@@ -3,11 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="60ee5e85-4882-48ff-9243-4f57384d1962" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/DraggableColorBox.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/DraggableColorBox.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/DraggableColorList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/DraggableColorList.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/NewPaletteForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/NewPaletteForm.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -105,7 +103,8 @@
       <workItem from="1571098134415" duration="2000" />
       <workItem from="1571145821047" duration="3408000" />
       <workItem from="1571155994043" duration="769000" />
-      <workItem from="1571170358865" duration="11352000" />
+      <workItem from="1571170358865" duration="11436000" />
+      <workItem from="1571238382010" duration="457000" />
     </task>
     <servers />
   </component>
@@ -131,7 +130,6 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/src/components/DraggableColorBox.js</url>
           <line>5</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
